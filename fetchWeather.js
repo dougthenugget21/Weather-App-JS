@@ -18,6 +18,9 @@ export async function fetchWeather() {
     const city = process.env.CITY || 'London'
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`
 
+    // customlable = "blank"
+    // city.apiKey = customlable 
+
     try {
         const response = await fetch(url)
         if (!response.ok) {
