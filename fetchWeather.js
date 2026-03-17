@@ -19,7 +19,7 @@ export async function fetchWeather() {
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`
 
     const customLable = "North Sentinel Island"
-    city = customLable 
+    city = customLable  
 
     try {
         const response = await fetch(url)
