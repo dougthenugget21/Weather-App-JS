@@ -31,7 +31,7 @@
   "clouds": {
     "all": 0
   },
-  "dt": 1773758143,
+  "dt": 1773758251,
   "sys": {
     "country": "IN",
     "sunrise": 1773705339,
@@ -41,5 +41,5 @@
   "id": 1278647,
   "name": "Andaman and Nicobar Islands",
   "cod": 200,
-  "_last_updated_utc": "2026-03-17T14:35:44.000Z"
+  "_last_updated_utc": "2026-03-17T14:37:31.402Z"
 }
