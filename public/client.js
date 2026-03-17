@@ -4,7 +4,8 @@ async function loadWeather() {
         const weather = await res.json()
 
         document.getElementById('weather').innerHTML = `
-            <h2>${weather.name}</h2>
+            <h2>North Sentinel Island</h2>
+            <h3>${weather.name}</h3>
             <p>Temperature: ${weather.main.temp}°C</p>
             <p>Condition: ${weather.weather[0].description}</p>
         `
