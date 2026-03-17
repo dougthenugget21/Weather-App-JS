@@ -1,4 +1,5 @@
 timestamp,city,temperature,description
+timestamp,city,temperature,description
 2026-03-16T16:34:01.801Z,Andaman and Nicobar Islands,27.12,clear sky
 2026-03-17T11:09:11.433Z,Andaman and Nicobar Islands,29.51,scattered clouds
 2026-03-17T11:10:44.295Z,Andaman and Nicobar Islands,29.51,scattered clouds
@@ -11,3 +12,4 @@ timestamp,city,temperature,description
 =======
 2026-03-17T12:32:03.233Z,London,13.94,broken clouds
 >>>>>>> 8192a4ba838d4479ee30090df3e35235ff618581
+2026-03-17T14:21:29.521Z,Andaman and Nicobar Islands,27.27,clear sky
