@@ -17,9 +17,6 @@ export async function fetchWeather() {
     const apiKey = process.env.WEATHER_API_KEY
     const city = process.env.CITY || 'London'
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`
-    const customLabel = "North Sentinel Island";
-    city.apiKey = customLabel;
-
 
     try {
         const response = await fetch(url)
