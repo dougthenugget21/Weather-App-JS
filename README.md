@@ -2,7 +2,7 @@
 
 ## Description 
 Have you ever wanted to know the weather of North Sentinel Island and it's neighboring islands? Well, look no further!
-This app was built to give you that true Island Living feeling and make you feel like one of the North Sentinel people. Next step, book a trip.
+This app was built to give you that true Island Living feeling and make you feel like one of the North Sentinel natives. Next step, book a trip.
 
 ## Installation
 
