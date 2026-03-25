@@ -2,16 +2,15 @@ const fs = require('fs')
 const path = require('path')
 
 const DATA_DIR = path.join(process.cwd(), 'data')
-const JSON_FILE = path.join(DATA_DIR, 'weather.json')
+const WEATHER_JSON = path.join(DATA_DIR, 'weather.json')
 const CSV_FILE = path.join(DATA_DIR, 'weather_log.csv')
 
 describe('Weather Data Tests', () => {
     test('weather.json exists', () => {
-        expect(fs.existsSync(JSON_FILE)).toBe(true)
+        expect(fs.existsSync(WEATHER_JSON)).toBe(true)
     })
-
     test('weather.json has required keys', () => {
-        const raw = fs.readFileSync(JSON_FILE, 'utf8')
+        const raw = fs.readFileSync(WEATHER_JSON, 'utf8')
         expect(raw.trim().length).toBeGreaterThan(0)
 
         const data = JSON.parse(raw)

@@ -18,14 +18,13 @@ async function loadWeather() {
 async function loadChart() {
     try {
         const res = await fetch('/api/weather-log')
-        const { timestamps, temps } = await res.json()
+        const { timestamps, temperatures } = await res.json()
 
         const trace = {
             x: timestamps,
-            y: temps,
+            y: temperatures,
             type: 'scatter',
             mode: 'lines+markers',
-            name: 'Temperature C',
             line: {
                 color: 'purple'
             }
@@ -33,8 +32,8 @@ async function loadChart() {
 
         const layout = {
             title: 'Temperature Over Time',
-            xaxis: { title: 'Date' , type: 'date'},
-            yaxis: { title: 'Temperature (C)' },
+            xaxis: { title: 'Date', type: 'date' },
+            yaxis: { title: 'Temperature C' },
             legend: { orientation: 'h', x: 0, y: 1.1 }
         }
 
@@ -44,6 +43,5 @@ async function loadChart() {
     }
 }
 
-// Initialize both
 loadWeather()
 loadChart()
