@@ -20,18 +20,18 @@
     "pressure": 1010,
     "humidity": 83,
     "sea_level": 1010,
-    "grnd_level": 1006
+    "grnd_level": 1007
   },
   "visibility": 10000,
   "wind": {
-    "speed": 6.3,
-    "deg": 218,
-    "gust": 8.56
+    "speed": 6.18,
+    "deg": 223,
+    "gust": 8.55
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1781643212,
+  "dt": 1781652268,
   "sys": {
     "country": "IN",
     "sunrise": 1781652354,
@@ -41,5 +41,5 @@
   "id": 1278647,
   "name": "Andaman and Nicobar Islands",
   "cod": 200,
-  "_last_updated_utc": "2026-06-16T20:53:32.980Z"
+  "_last_updated_utc": "2026-06-16T23:24:28.866Z"
 }
