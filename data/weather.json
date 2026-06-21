@@ -5,9 +5,9 @@
   },
   "weather": [
     {
-      "id": 804,
+      "id": 803,
       "main": "Clouds",
-      "description": "overcast clouds",
+      "description": "broken clouds",
       "icon": "04n"
     }
   ],
@@ -24,14 +24,14 @@
   },
   "visibility": 10000,
   "wind": {
-    "speed": 6.18,
-    "deg": 232,
-    "gust": 8.64
+    "speed": 6.45,
+    "deg": 233,
+    "gust": 8.78
   },
   "clouds": {
-    "all": 94
+    "all": 79
   },
-  "dt": 1782076583,
+  "dt": 1782083757,
   "sys": {
     "country": "IN",
     "sunrise": 1782084411,
@@ -41,5 +41,5 @@
   "id": 1278647,
   "name": "Andaman and Nicobar Islands",
   "cod": 200,
-  "_last_updated_utc": "2026-06-21T21:16:23.401Z"
+  "_last_updated_utc": "2026-06-21T23:15:57.567Z"
 }
