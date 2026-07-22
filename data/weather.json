@@ -8,30 +8,30 @@
       "id": 804,
       "main": "Clouds",
       "description": "overcast clouds",
-      "icon": "04d"
+      "icon": "04n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 28.97,
-    "feels_like": 34.03,
-    "temp_min": 28.97,
-    "temp_max": 28.97,
-    "pressure": 1009,
-    "humidity": 77,
-    "sea_level": 1009,
-    "grnd_level": 1006
+    "temp": 28.29,
+    "feels_like": 33.19,
+    "temp_min": 28.29,
+    "temp_max": 28.29,
+    "pressure": 1011,
+    "humidity": 82,
+    "sea_level": 1011,
+    "grnd_level": 1007
   },
   "visibility": 10000,
   "wind": {
-    "speed": 6.73,
-    "deg": 235,
-    "gust": 8.42
+    "speed": 6.3,
+    "deg": 239,
+    "gust": 8.68
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1784715977,
+  "dt": 1784728756,
   "sys": {
     "country": "IN",
     "sunrise": 1784676858,
@@ -41,5 +41,5 @@
   "id": 1278647,
   "name": "Andaman and Nicobar Islands",
   "cod": 200,
-  "_last_updated_utc": "2026-07-22T10:26:17.499Z"
+  "_last_updated_utc": "2026-07-22T13:59:16.410Z"
 }
