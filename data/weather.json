@@ -17,20 +17,20 @@
     "feels_like": 31.29,
     "temp_min": 27.51,
     "temp_max": 27.51,
-    "pressure": 1013,
+    "pressure": 1012,
     "humidity": 83,
-    "sea_level": 1013,
+    "sea_level": 1012,
     "grnd_level": 1009
   },
   "visibility": 4000,
   "wind": {
-    "speed": 6.17,
+    "speed": 6.69,
     "deg": 140
   },
   "clouds": {
     "all": 75
   },
-  "dt": 1793386840,
+  "dt": 1793402972,
   "sys": {
     "type": 1,
     "id": 9215,
@@ -42,5 +42,5 @@
   "id": 1278647,
   "name": "Andaman and Nicobar Islands",
   "cod": 200,
-  "_last_updated_utc": "2026-10-30T19:00:40.143Z"
+  "_last_updated_utc": "2026-10-30T23:29:32.285Z"
 }
