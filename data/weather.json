@@ -8,30 +8,29 @@
       "id": 701,
       "main": "Mist",
       "description": "mist",
-      "icon": "50d"
+      "icon": "50n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 30.51,
-    "feels_like": 36.31,
-    "temp_min": 30.51,
-    "temp_max": 30.51,
-    "pressure": 1014,
-    "humidity": 70,
-    "sea_level": 1014,
-    "grnd_level": 1011
+    "temp": 27.51,
+    "feels_like": 32.09,
+    "temp_min": 27.51,
+    "temp_max": 27.51,
+    "pressure": 1013,
+    "humidity": 89,
+    "sea_level": 1013,
+    "grnd_level": 1009
   },
   "visibility": 5000,
   "wind": {
-    "speed": 5.14,
-    "deg": 110,
-    "gust": 7.2
+    "speed": 2.57,
+    "deg": 160
   },
   "clouds": {
-    "all": 40
+    "all": 75
   },
-  "dt": 1793421201,
+  "dt": 1793447428,
   "sys": {
     "type": 1,
     "id": 9215,
@@ -43,5 +42,5 @@
   "id": 1278647,
   "name": "Andaman and Nicobar Islands",
   "cod": 200,
-  "_last_updated_utc": "2026-10-31T04:34:26.874Z"
+  "_last_updated_utc": "2026-10-31T11:50:28.243Z"
 }
