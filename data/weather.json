@@ -5,32 +5,32 @@
   },
   "weather": [
     {
-      "id": 721,
-      "main": "Haze",
-      "description": "haze",
-      "icon": "50d"
+      "id": 701,
+      "main": "Mist",
+      "description": "mist",
+      "icon": "50n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 29.51,
-    "feels_like": 34.76,
-    "temp_min": 29.51,
-    "temp_max": 29.51,
-    "pressure": 1011,
-    "humidity": 74,
-    "sea_level": 1011,
+    "temp": 27.51,
+    "feels_like": 31.29,
+    "temp_min": 27.51,
+    "temp_max": 27.51,
+    "pressure": 1012,
+    "humidity": 83,
+    "sea_level": 1012,
     "grnd_level": 1008
   },
   "visibility": 5000,
   "wind": {
-    "speed": 3.09,
-    "deg": 170
+    "speed": 1.03,
+    "deg": 0
   },
   "clouds": {
     "all": 40
   },
-  "dt": 1794030350,
+  "dt": 1794055050,
   "sys": {
     "type": 1,
     "id": 9215,
@@ -42,5 +42,5 @@
   "id": 1278647,
   "name": "Andaman and Nicobar Islands",
   "cod": 200,
-  "_last_updated_utc": "2026-11-07T05:45:50.795Z"
+  "_last_updated_utc": "2026-11-07T12:37:30.687Z"
 }
